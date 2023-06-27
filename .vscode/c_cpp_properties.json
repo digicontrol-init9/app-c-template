@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "test",
+            "defines": [
+                "TEST"
+            ],
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/home/linuxbrew/.linuxbrew/bin/gcc",
+            "cStandard": "c99",
+            "cppStandard": "gnu++17",
+            "includePath": [
+                "${workspaceFolder}/src/**",
+                "${workspaceFolder}/build/test/mocks/**",
+                "${workspaceFolder}/test/support/**",
+                "/home/linuxbrew/.linuxbrew/lib/ruby/gems/2.7.0/gems/ceedling-0.31.1/vendor/unity/src"
+            ]
+        }
+    ],
+    "version": 4
+}

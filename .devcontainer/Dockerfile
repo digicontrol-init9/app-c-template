@@ -1,0 +1,1 @@
+FROM daniel00/ceedling:latest
